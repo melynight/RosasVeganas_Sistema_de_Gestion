@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1667484790 source:c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\main.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<time.h>
+	<conio.h>
+	"rlutil.h"
+	"Fecha.h"
+	"funcionesGlobales.h"
+	"Usuario.h"
+	"Entrada.h"
+	"Bebida.h"
+	"Cliente.h"
+	"funcionesComida.h"
+	"funcionesUsuarios.h"
+	"funcionesClientes.h"
+	"Pedido.h"
+	"funcionesPedidos.h"
+	"funcionesConfiguracion.h"
+	"reportes.h"
+	"MenúesPrincipales.h"
+
+1666416109 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667161272 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\fecha.h
+
+1667594800 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\funcionesglobales.h
+
+1667234013 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\usuario.h
+
+1667594999 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\entrada.h
+
+1667594999 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\bebida.h
+
+1667593953 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\cliente.h
+
+1668086504 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\funcionescomida.h
+
+1666895737 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\funcionesusuarios.h
+
+1666896599 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\funcionesclientes.h
+
+1667484813 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\pedido.h
+
+1667594049 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\funcionespedidos.h
+
+1667338600 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\funcionesconfiguracion.h
+
+1667485113 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\reportes.h
+
+1668082697 c:\users\dalam\onedrive\escritorio\tp_rosasveganas - dalama melany\menúesprincipales.h
+
